@@ -1,0 +1,17 @@
+{
+  "name": "desafio01",
+  "version": "1.0.0",
+  "description": "desafio 1: Conceitos do Node Js",
+  "main": "index.js",
+  "author": "Denison",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
